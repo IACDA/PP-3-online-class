@@ -1,0 +1,33 @@
+body, html{
+	font-family:Roboto,sans-serif,arial;
+	background:lavender;
+}
+.width-100{
+	width:100% ;
+	float: left;
+}
+
+.container{
+	width: 100%;
+	margin: 0px auto;
+	height: auto;
+}
+
+.top-header{
+	background:#2196f3;
+	padding: 0px 0px;
+	border-bottom: 1px solid #3131315e;
+}
+
+.news-list{
+	background:#fff;
+	color: red;
+	padding:4px
+	font-size:25px;
+}
+
+.headquote{
+	font-size: 15px;
+	color: #fff;
+	width: 90%;
+}
